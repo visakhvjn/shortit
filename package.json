@@ -1,0 +1,27 @@
+{
+  "name": "shortit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A URL shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visakhvjn/shortit.git"
+  },
+  "keywords": [
+    "shortener"
+  ],
+  "author": "Visakh Vijayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visakhvjn/shortit/issues"
+  },
+  "homepage": "https://github.com/visakhvjn/shortit#readme",
+  "dependencies": {
+    "realm": "^10.13.0",
+    "shortid": "^2.2.16"
+  }
+}
